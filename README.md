@@ -43,7 +43,7 @@ The AI model is trained to identify the following conditions:
 *   **Image Processing**: OpenCV, PIL
 *   **Data Science**: Pandas, NumPy, Scikit-learn
 *   **Visualization**: Matplotlib, Seaborn
-*   **Deployment**: Streamlit, Gradio
+*   **User Interface**: Streamlit, Gradio
 
 ---
 
@@ -113,9 +113,6 @@ To view the training process, data exploration, and performance metrics, open:
 
 ---
 
-## ⚠️ Disclaimer
-
-*This tool is for **educational and research purposes only**. It is not intended for clinical use or to replace the professional judgment of a qualified radiologist.*
 
 ---
 Designed with ❤️ for AI in Healthcare.
